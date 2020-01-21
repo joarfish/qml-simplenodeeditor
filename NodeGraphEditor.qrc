@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/nge">
+        <file alias="components/Edge.qml">nge/components/Edge.qml</file>
+        <file alias="components/InputPort.qml">nge/components/InputPort.qml</file>
+        <file alias="components/Node.qml">nge/components/Node.qml</file>
+        <file alias="components/OutputPort.qml">nge/components/OutputPort.qml</file>
+        <file alias="components/properties/FloatPropertyInput.qml">nge/components/properties/FloatPropertyInput.qml</file>
+        <file alias="qmldir">nge/qmldir</file>
+        <file alias="NodeGraphEditor.qml">nge/NodeGraphEditor.qml</file>
+        <file alias="styles/NodeStyles.qml">nge/styles/NodeStyles.qml</file>
+        <file alias="styles/qmldir">nge/styles/qmldir</file>
+    </qresource>
+</RCC>
